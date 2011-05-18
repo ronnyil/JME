@@ -1,0 +1,6 @@
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\MostlyMusicAdapter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\MostlyMusicAdapter\bin\Debug\MostlyMusicAdapter.dll
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\MostlyMusicAdapter\bin\Debug\MostlyMusicAdapter.pdb
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\MostlyMusicAdapter\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\MostlyMusicAdapter\obj\Debug\MostlyMusicAdapter.dll
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\MostlyMusicAdapter\obj\Debug\MostlyMusicAdapter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\foolin around\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\foolin around\bin\Debug\foolin around.exe
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\foolin around\bin\Debug\foolin around.pdb
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\foolin around\obj\x86\Debug\foolin around.exe
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\foolin around\obj\x86\Debug\foolin around.pdb
+C:\Users\Raanan\Documents\Visual Studio 2010\Projects\foolin around\foolin around\bin\Debug\HtmlAgilityPack.dll
